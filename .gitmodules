@@ -3,4 +3,4 @@
 	url = https://github.com/QiLinPTA/benchmarks.git
 [submodule "qilin.microben"]
 	path = qilin.microben
-	url = https://github.com/QilinPTA/microben.git
+	url = https://github.com/kevzhumba/microben.git
